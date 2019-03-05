@@ -9,5 +9,5 @@ cmake.. && make all
 ### Executing
 run the command:
 ./Jetpack_clone
-
+ See report.pdf for features and details
 
