@@ -8,6 +8,6 @@ cmake.. && make all
 
 ### Executing
 run the command:
-./Jetpack_clone
+./Jetpack_Clone
  See report.pdf for features and details
 
