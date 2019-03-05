@@ -1,2 +1,13 @@
-# Jetpack-Joyride-Clone-Opengl-
-Its a clone of popular jetpack joyride game in opengl with attractive bonus features as dragons,special moves and enemies
+### Building
+extract the files and run:
+mkdir build && cd build
+
+### Compiling
+go to build directory and run:
+cmake.. && make all
+
+### Executing
+run the command:
+./Jetpack_clone
+
+
