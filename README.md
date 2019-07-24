@@ -10,5 +10,5 @@ cmake.. && make all
 run the command:
 ./Jetpack_Clone
 ### Features
- See report.pdf for features and details
+ See [report.pdf](https://github.com/nsk06/Jetpack-Joyride-Clone-Opengl-/blob/master/report.pdf) for features and details
 
